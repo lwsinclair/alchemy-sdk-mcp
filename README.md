@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/itsanishjain-alchemy-sdk-mcp-badge.png)](https://mseep.ai/app/itsanishjain-alchemy-sdk-mcp)
+
 # Alchemy MCP Plugin
 
 [![smithery badge](https://smithery.ai/badge/@itsanishjain/alchemy-sdk-mcp)](https://smithery.ai/server/@itsanishjain/alchemy-sdk-mcp)
